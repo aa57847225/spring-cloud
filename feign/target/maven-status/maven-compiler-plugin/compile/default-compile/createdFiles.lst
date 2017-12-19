@@ -1,3 +1,4 @@
 com\whl\demo\Run.class
+com\whl\demo\service\HystrixClientFallback.class
 com\whl\demo\controller\ConsumerController.class
 com\whl\demo\service\HelloService.class
