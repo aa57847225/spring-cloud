@@ -10,3 +10,5 @@ public class Application {
         new SpringApplicationBuilder(Application.class).run(args);
     }
 }
+
+// http://localhost:8888/didispacje/test 可以看到test配置信息 dev prod 等相应的信息
